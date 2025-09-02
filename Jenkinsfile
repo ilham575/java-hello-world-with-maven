@@ -22,7 +22,7 @@ pipeline {
                   -Dsonar.projectKey=Myapp \
                   -Dsonar.projectName="Myapp" \
                   -Dsonar.host.url=http://172.17.0.3:9000 \
-                  -Dsonar.token=sqa_875067b06ba40fae4116c3054a1708882d00b15c
+                  -Dsonar.token=sqa_d0c0221c0bb0c33f01516bf7710573775b8b8218
                 '''
             }
         }
